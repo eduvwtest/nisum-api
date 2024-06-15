@@ -62,7 +62,7 @@ public class AppConstants {
 
 
     // Validations
-    public static final String EMAIL_REGEXPR = "^(.+)@(.+)$";
+    public static final String INVALID_USER_EMAIL_DUPLICATED_MSG = "Error: Este Correo ya esta Registrado";
 
     public static final String INVALID_PASSWORD_MSG = "Password: Formato Invalido, intente nuevamente";
 
